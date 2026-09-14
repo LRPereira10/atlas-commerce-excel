@@ -1,2 +1,3 @@
-# atlas-commerce-excel
-Análise de vendas e performance comercial desenvolvida em Excel para a empresa fictícia Atlas Commerce.
+# Atlas Commerce — Análise de Vendas e Performance Comercial
+
+Projeto de análise de dados desenvolvido em Excel para simular o cenário de uma empresa de comércio de produtos eletrônicos.
