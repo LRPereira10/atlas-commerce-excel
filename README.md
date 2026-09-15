@@ -101,4 +101,4 @@ Identificação dos produtos com maior volume de unidades disponíveis em estoqu
 
 O dashboard foi desenvolvido para apresentar, de forma objetiva e visual, os principais indicadores e análises do desempenho comercial da Atlas Commerce.
 
-![Dashboard Atlas Commerce](dashboard.png)
+![Dashboard Atlas Commerce](dashboard%20atlas%20commerce.png)
