@@ -41,6 +41,13 @@ A base contempla dois anos de operação, entre janeiro de 2024 e dezembro de 20
 - **12 estados**
 - **15 vendedores**
 
+### 📌 Fonte dos dados
+
+Os dados utilizados neste projeto são **fictícios**, criados exclusivamente para fins educacionais e de construção de portfólio.
+
+A base foi desenvolvida para simular uma operação comercial de uma empresa de médio porte do segmento de eletrônicos, contendo dados de vendas, produtos, clientes, estoque e vendedores.
+
+Os dados não representam informações reais de nenhuma empresa ou pessoa.
 ### Principais conjuntos de dados
 
 | Conjunto | Descrição |
