@@ -78,3 +78,21 @@ Acompanhamento do comportamento das vendas ao longo dos 24 meses analisados.
 
 **5. Top 10 Produtos por Estoque**  
 Identificação dos produtos com maior volume de unidades disponíveis em estoque.
+
+## 🛠️ Ferramentas e técnicas
+
+### Ferramenta principal
+
+- Microsoft Excel
+
+### Recursos utilizados
+
+- Organização e estruturação de bases de dados
+- Tabelas estruturadas
+- Fórmulas e cálculos
+- PROCX para relacionamento e busca de informações
+- Tabelas Dinâmicas
+- Criação de KPIs
+- Gráficos e visualização de dados
+- Análise de vendas, lucro e estoque
+- Construção de dashboard executivo
