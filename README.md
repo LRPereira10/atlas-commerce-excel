@@ -50,3 +50,31 @@ A base contempla dois anos de operação, entre janeiro de 2024 e dezembro de 20
 | Clientes | Informações cadastrais e localização dos clientes |
 | Estoque | Quantidade disponível de cada produto |
 | Vendedores | Informações relacionadas à equipe comercial |
+
+## 📈 Análises desenvolvidas
+
+A análise foi estruturada a partir de indicadores e visualizações voltados para diferentes aspectos do desempenho comercial da empresa.
+
+### Indicadores (KPIs)
+
+- **Faturamento Total:** R$ 98.919.380,00
+- **Lucro Total:** R$ 38.172.412,00
+- **Total de Vendas:** 12.000
+- **Ticket Médio:** R$ 8.243,28
+
+### Visualizações
+
+**1. Top 10 Produtos por Lucro**  
+Identificação dos produtos que apresentam maior contribuição para o resultado financeiro da empresa.
+
+**2. Lucro por Estado**  
+Análise da distribuição do lucro entre os diferentes estados atendidos pela empresa.
+
+**3. Participação do Lucro por Canal**  
+Comparação da participação de Site, Marketplace e Loja Física no lucro total.
+
+**4. Evolução Mensal das Vendas**  
+Acompanhamento do comportamento das vendas ao longo dos 24 meses analisados.
+
+**5. Top 10 Produtos por Estoque**  
+Identificação dos produtos com maior volume de unidades disponíveis em estoque.
